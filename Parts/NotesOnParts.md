@@ -16,3 +16,6 @@ Converted STP to STEP in KiCAD.
 Arduino UNO from Grabcad at:
 https://grabcad.com/library/arduino-uno-r3-1
 
+
+Buzzer 12mm with 7.8 mm lead space 
+Found a model here: https://grabcad.com/library/buzzer-12mm-continuo-1
