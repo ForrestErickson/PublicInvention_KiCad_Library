@@ -1,8 +1,8 @@
 # PublicInvention_KiCad_Library
-Libaray for KiCad Schematic and PCB for PublicInvention Projects
+Library for KiCad Schematic and PCB for PublicInvention Projects
 
 ## History
-These files were originaly created with the GPAD project which started spring of 2022 in KiCad 5 and migrated to KiCad 6 soon thereafter.
+These files were originally created with the GPAD project which started spring of 2022 in KiCad 5 and migrated to KiCad 6 soon thereafter.
 As of summer of 2023 we are migrating to KiCad 7.
 
 
